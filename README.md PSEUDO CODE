@@ -2,8 +2,7 @@
 TODAY'S KNOWLEDGE !!
 
 WRITE A PSEUDO CODE TO ADD NUMBERS AND DISPLAY RESULT 
-
-START 
+BEGIN 
     GET num1  
     GET num2 
     result = num1+num2 
